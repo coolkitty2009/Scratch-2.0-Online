@@ -8,7 +8,7 @@ bin-release/
 .settings/
 
 # Executables
-*.swf
+Scratch Online editior.swf
 *.air
 *.ipa
 *.apk
